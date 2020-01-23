@@ -4,7 +4,7 @@
   "description": "hacker news appication",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/YousraMashkoor/Hacker-News-Application-with-Next.js/issues"
   },
-  "homepage": "https://github.com/YousraMashkoor/Hacker-News-Application-with-Next.js#readme"
+  "homepage": "https://github.com/YousraMashkoor/Hacker-News-Application-with-Next.js#readme",
+  "dependencies": {
+    "next": "^9.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
 }
