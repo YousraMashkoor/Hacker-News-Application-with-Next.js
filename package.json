@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/YousraMashkoor/Hacker-News-Application-with-Next.js#readme",
   "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
     "next": "^9.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
