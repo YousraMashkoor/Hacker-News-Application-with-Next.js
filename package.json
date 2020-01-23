@@ -1,0 +1,19 @@
+{
+  "name": "hacker-news-app",
+  "version": "1.0.0",
+  "description": "hacker news appication",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YousraMashkoor/Hacker-News-Application-with-Next.js.git"
+  },
+  "author": "Yousra Mashkoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YousraMashkoor/Hacker-News-Application-with-Next.js/issues"
+  },
+  "homepage": "https://github.com/YousraMashkoor/Hacker-News-Application-with-Next.js#readme"
+}
